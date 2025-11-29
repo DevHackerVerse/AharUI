@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#6366F1</color>
+    <color name="colorPrimaryVariant">#4F46E5</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <!-- Secondary Colors -->
+    <color name="colorSecondary">#10B981</color>
+    <color name="colorSecondaryVariant">#059669</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+
+    <!-- Accent Colors -->
+    <color name="colorAccent">#F59E0B</color>
+    <color name="colorError">#EF4444</color>
+
+    <!-- Background Colors -->
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="background_light">#F9FAFB</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnBackground">#111827</color>
+    <color name="colorOnSurface">#111827</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_tertiary">#9CA3AF</color>
+
+    <!-- Card Background Colors -->
+    <color name="card_water_background">#EFF6FF</color>
+    <color name="card_calories_background">#FEF3C7</color>
+
+    <!-- Feature-specific Colors -->
+    <color name="water_accent">#3B82F6</color>
+    <color name="calories_accent">#F59E0B</color>
+    <color name="progress_background">#E5E7EB</color>
+
+    <!-- Chip Colors (for selectors in res/color/) -->
+    <color name="chip_background_normal">#F3F4F6</color>
+    <color name="chip_selected_background">#6366F1</color>
+    <color name="chip_text_normal">#374151</color>
+    <color name="chip_selected_text_color">#FFFFFF</color>
+
+    <!-- Chart Colors -->
+    <color name="chart_line">#6366F1</color>
+    <color name="chart_point">#4F46E5</color>
+    <color name="chart_grid">#E5E7EB</color>
+</resources>

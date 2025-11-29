@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">NeuroDiet</string>
+
+    <!-- Bottom Navigation -->
+    <string name="title_home">Home</string>
+    <string name="title_diet">Diet</string>
+    <string name="title_maps">Nearby</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- Home Screen -->
+    <string name="water_intake">Water Intake</string>
+    <string name="calories">Calories</string>
+    <string name="log_water">Log Water</string>
+    <string name="scan_food">Scan Food</string>
+    <string name="view_plan">View Plan</string>
+
+    <!-- Diet Screen -->
+    <string name="add_meal">Add Meal</string>
+    <string name="generate_shopping_list">Generate Shopping List</string>
+    <string name="todays_meals">Today\'s Meals</string>
+
+    <!-- Profile Screen -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="water_goal_settings">Water Goal Settings</string>
+    <string name="rewards_and_badges">Rewards &amp; Badges</string>
+    <string name="logout">Logout</string>
+
+    <!-- Permissions -->
+    <string name="camera_permission_required">Camera permission is required to scan food</string>
+    <string name="location_permission_required">Location permission is required to find nearby places</string>
+
+    <!-- Notifications -->
+    <string name="water_reminder_title">Time to Hydrate!</string>
+    <string name="water_reminder_message">Don\'t forget to drink water 💧</string>
+    <string name="meal_reminder_title">Time for %s!</string>
+    <string name="meal_reminder_message">Log your meal to track your progress 🍽️</string>
+
+    <!-- Errors -->
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_network">No internet connection</string>
+    <string name="error_camera">Failed to start camera</string>
+</resources>
