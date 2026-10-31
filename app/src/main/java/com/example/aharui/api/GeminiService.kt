@@ -2,7 +2,6 @@ package com.example.aharui.data.api
 
 import android.util.Log
 import com.example.aharui.data.model.*
-import com.google.ai.client.generativeai.BuildConfig
 import com.google.ai.client.generativeai.GenerativeModel
 import com.google.ai.client.generativeai.type.generationConfig
 import kotlinx.coroutines.Dispatchers
@@ -10,6 +9,12 @@ import kotlinx.coroutines.withContext
 import org.json.JSONObject
 import javax.inject.Inject
 import javax.inject.Singleton
+// Remove this:
+// import com.google.ai.client.generativeai.BuildConfig
+
+// Add this:
+import com.example.aharui.BuildConfig
+
 
 @Singleton
 class GeminiService @Inject constructor() {
